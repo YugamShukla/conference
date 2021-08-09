@@ -75,6 +75,7 @@ p { color: #666 }
 
 @media (max-width: 480px) {
 /* CSS Responsive table */
+table{margin: 20px};
 table.ng-table,
 table.ng-table thead,
 table.ng-table tbody,
